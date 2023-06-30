@@ -1,2 +1,2 @@
 # PrepCourseHenry
-Es un repositorio para el prepcourse de henry
+Prueba de como crear un repositorio para SoyHenry
